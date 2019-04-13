@@ -1,0 +1,12 @@
+name: workout2
+title:
+username:
+account: aliciak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 861965
+bundleId: 2007734
+url: https://aliciak.shinyapps.io/workout2/
+when: 1555135434.29705
+asMultiple: FALSE
+asStatic: FALSE
